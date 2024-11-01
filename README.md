@@ -1,4 +1,4 @@
-# About Me
+# 💫 About Me 
 **Hi there! 👋**
 
 I'm Gal Dadon, an 18-year-old self-taught and highly motivated developer passionate about programming! I’m committed to learning something new every day, constantly exploring and expanding my knowledge.
